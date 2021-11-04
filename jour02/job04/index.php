@@ -8,10 +8,10 @@ if(($var %3)&&($var %5)){
     echo "FizzBuzz";
 }
 elseif($var %3){
-    echo "Buzz" ."<br>";
+    echo "Fizz" ."<br>";
 }
 elseif($var %5){
-    echo "Fizz" ."<br>";
+    echo "Buzz" ."<br>";
 }
 }
 

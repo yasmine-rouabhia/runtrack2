@@ -1,7 +1,7 @@
 <?php
 $var = 0;
 
-while($var <= 100){
+while($var < 100){
     $var ++;
 
     if($var <= 20){
