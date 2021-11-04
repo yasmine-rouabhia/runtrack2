@@ -2,7 +2,7 @@
 
 $var = 0;
 while($var < 13367){    
-$var ++;
+$var ++ ; 
 
 if($var ==26){
     echo '';
