@@ -1,0 +1,26 @@
+button{
+    width: 50px;
+    height: 19px;
+    margin: 0 0 0 0px;
+}
+
+h1{
+    color: violet;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: rgb(224, 182, 221) wavy underline;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+form{
+    color: #fff;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(221, 206, 206);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
